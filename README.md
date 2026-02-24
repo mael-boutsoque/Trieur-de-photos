@@ -4,6 +4,10 @@
 
 ---
 
+[![Télécharger l'installeur](https://img.shields.io/badge/Télécharger-Installeur%20Windows-blue?style=for-the-badge&logo=windows)](https://github.com/mael-boutsoque/Trieur-de-photos/releases/download/v1.0/Installer.Trieur.de.Photo.exe)
+
+---
+
 ## ✨ Fonctionnalités
 
 | Fonctionnalité | Description |
