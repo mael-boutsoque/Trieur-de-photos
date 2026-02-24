@@ -36,7 +36,7 @@ Photo_selector/
 
 ### Option 1 — Exécutable Windows (sans Python)
 
-Téléchargez et lancez directement **`Trieur de Photos.exe`** — aucune installation requise.
+Téléchargez et installer directement une version Release **`Installer Trieur de Photos.exe`**.
 
 ### Option 2 — Depuis les sources (Python)
 
